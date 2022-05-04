@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7B0F585C2821EF8D00874923 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 7B0F585B2821EF8D00874923 /* main.c */; };
+		7B0F58632821FB3300874923 /* First Challenge.c in Sources */ = {isa = PBXBuildFile; fileRef = 7B0F58622821FB3300874923 /* First Challenge.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		7B0F58582821EF8D00874923 /* C Beginner Course */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C Beginner Course"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7B0F585B2821EF8D00874923 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		7B0F58622821FB3300874923 /* First Challenge.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "First Challenge.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		7B0F585A2821EF8D00874923 /* C Beginner Course */ = {
 			isa = PBXGroup;
 			children = (
-				7B0F585B2821EF8D00874923 /* main.c */,
+				7B0F58622821FB3300874923 /* First Challenge.c */,
 			);
 			path = "C Beginner Course";
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7B0F585C2821EF8D00874923 /* main.c in Sources */,
+				7B0F58632821FB3300874923 /* First Challenge.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
